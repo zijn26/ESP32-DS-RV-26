@@ -106,24 +106,14 @@ PCB sẽ được mở ra với:
 
 ![alt text](image/{F00ECFFA-6097-462E-8C7B-ED29B91DF90C}.png)
 
-
-## Nếu bị lỗi thiếu footprint hoặc symbol
-
-Nếu KiCad báo lỗi như:
-
-> Footprint not found
-> Symbol not found
-
-Hãy đảm bảo:
-
-* Thư mục `.pretty`
-* File `.kicad_sym`
-* File `fp-lib-table`
-
 đang nằm **cùng thư mục với project**
 
 Phần 2 : Thông tin về linh kiên sử dụng , giải thích về sơ đồ nguyên lý và mạch in
 
 Thông tin về linh kiện sử dụng : 
-Thầy hãy đọc file LINHKIENSUDUNG.md để biết thông tin chi tiết về linh kiện .
+Thầy hãy đọc file LINHKIENSUDUNG.md để biết thông tin chi tiết về linh kiện :
+https://github.com/zijn26/ESP32-DS-RV-26/blob/main/LINHKIENSUDUNG.md
+Thông tin về sơ đồ mạch và layout PCB , thày hãy đọc file GIAITHICH.md :
+https://github.com/zijn26/ESP32-DS-RV-26/blob/main/GIAITHICH.md
+
 
